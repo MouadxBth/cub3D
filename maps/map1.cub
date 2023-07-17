@@ -1,0 +1,11 @@
+NO ./textures/purplestone.xpm
+WE ./textures/eagle.xpm
+SO ./textures/mossy.xpm
+EA ./textures/redbrick.xpm
+
+F 220,100,0
+C 214,30,0
+
+11111111 1111111 111111111111
+11000001110101011111011110N0111
+11111111 1111111 111111111111
